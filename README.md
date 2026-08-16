@@ -143,4 +143,4 @@ curl --location "${yourUrl}/v1/chat/completions" \
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=dairoot/Grok-Mirror&type=Timeline)
+![Star History Chart](https://star-history.dera.page/svg?repos=dairoot/Grok-Mirror&type=Timeline)
