@@ -5,6 +5,15 @@
 
 Grok Mirror 后台是一个 Grok 镜像站，允许多账号共享管理。实现多人同时使用 Grok 服务。
 
+## 特别鸣谢
+
+[![IPWO住宅代理](./docs/proxy_ad.png)](https://www.ipwo.net/?ref=githubGrokMirror)
+
+[IPWO](https://www.ipwo.net/?ref=githubGrokMirror) 住宅代理，可结合 Grok Mirror 的多账号、API 访问及代理池功能使用。覆盖 195+ 地区动静态住宅代理资源，支持 HTTP(S)、SOCKS5 等代理协议。
+
+可用于 AI API、多账号应用及代理池配置，适配不同网络访问需求。充裕住宅流量供免费测试，优惠折扣码：`0205`。
+
+--- 
 ## 特点
 
 - 提供与官网同等的极致体验。
