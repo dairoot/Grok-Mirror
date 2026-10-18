@@ -16,6 +16,10 @@ Grok Mirror 后台是一个 Grok 镜像站，允许多账号共享管理。实�
 
 https://gk.dairoot.cn
 
+## 应用下载
+
+下载仓库grokmirror.apk即可
+
 ## 部署
 
 打开命令行终端，执行以下命令
