@@ -133,16 +133,6 @@ curl --location "${yourUrl}/v1/chat/completions" \
 
 更多 API 请点击查看：[高阶玩法](./docs/grok-gateway.md)
 
-## 特别鸣谢
-
-[![IPWO住宅代理](./docs/proxy_ad.png)](https://www.ipwo.net/?ref=githubGrokMirror)
-
-[IPWO](https://www.ipwo.net/?ref=githubGrokMirror) 住宅代理，可结合 Grok Mirror 的多账号、API 访问及代理池功能使用。覆盖 195+ 地区动静态住宅代理资源，支持 HTTP(S)、SOCKS5 等代理协议。
-
-可用于 AI API、多账号应用及代理池配置，适配不同网络访问需求。充裕住宅流量供免费测试，优惠折扣码：`0205`。
-
---- 
-
 ## 加入群聊
 
 [Telegram](https://t.me/+34aYksZdq5ZhMzhl)
